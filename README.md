@@ -5,6 +5,9 @@ The first project is about the stocks sentiment analysis with using python
 
 The second project is about creating the most suitable portfolio with using the Efficient Frontiner from Modern Portfolio Theory.
 
+<img width="650" alt="Screenshot 2021-10-31 at 22 01 07" src="https://user-images.githubusercontent.com/92101495/139587422-dcc5b1b6-11c5-43f1-88fd-53a0ad123485.png">
+
+
 
 The third project is about using different tools to do forecasting on crytocurrencies e.g BTC
 I use machine deep learning model such as LSTM and also statistic model ARIMA here.
