@@ -7,7 +7,7 @@ The second project is about creating the most suitable portfolio with using the 
 
 <img width="650" alt="Screenshot 2021-10-31 at 22 01 07" src="https://user-images.githubusercontent.com/92101495/139587422-dcc5b1b6-11c5-43f1-88fd-53a0ad123485.png">
 
-
+<img width="692" alt="Screenshot 2021-10-31 at 22 02 07" src="https://user-images.githubusercontent.com/92101495/139587460-a75e7017-025b-417f-9bba-1daf1e90f96a.png">
 
 The third project is about using different tools to do forecasting on crytocurrencies e.g BTC
 I use machine deep learning model such as LSTM and also statistic model ARIMA here.
