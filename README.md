@@ -18,7 +18,7 @@ LSTM:
 
 ARIMA:
 
-
+<img width="944" alt="Screenshot 2021-10-31 at 22 07 25" src="https://user-images.githubusercontent.com/92101495/139587658-5be9465c-0e54-4bbc-a767-67c0e187a561.png">
 
 
 The forth project is about using the Discounted Cash Flow model to value the stock. 
