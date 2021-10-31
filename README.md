@@ -24,6 +24,10 @@ ARIMA:
 The forth project is about using the Discounted Cash Flow model to value the stock. 
 Therefore we can review its' intrinsic value, current price and margin of safety with python automatically. 
 
+DCF:
+
+<img width="776" alt="Screenshot 2021-10-31 at 22 11 31" src="https://user-images.githubusercontent.com/92101495/139587762-b42f6971-8b81-4078-a53e-760f873879fc.png">
+
 The fifth project is about trading strategy. I am using SMA and RSI trading strategy with backtesting to analyse the stock 'AAPL'
 Backtesting result: 
 
