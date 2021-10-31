@@ -10,4 +10,6 @@ I use machine deep learning model such as LSTM and also statistic model ARIMA he
 
 
 The forth project is about using the Discounted Cash Flow model to value the stock. 
-To review its' intrinsic value, current price and margin of safety with python automatically. 
+Therefore we can review its' intrinsic value, current price and margin of safety with python automatically. 
+
+The fifth project is about trading strategy. I am using SMA and RSI trading strategy with backtesting to analyse the stock 'AAPL'
