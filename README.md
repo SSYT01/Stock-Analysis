@@ -12,6 +12,14 @@ The second project is about creating the most suitable portfolio with using the 
 The third project is about using different tools to do forecasting on crytocurrencies e.g BTC
 I use machine deep learning model such as LSTM and also statistic model ARIMA here.
 
+LSTM:
+
+<img width="974" alt="Screenshot 2021-10-31 at 22 06 27" src="https://user-images.githubusercontent.com/92101495/139587622-b6a93c8b-bf35-4e40-9032-186a18df7398.png">
+
+ARIMA:
+
+
+
 
 The forth project is about using the Discounted Cash Flow model to value the stock. 
 Therefore we can review its' intrinsic value, current price and margin of safety with python automatically. 
