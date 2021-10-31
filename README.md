@@ -13,3 +13,5 @@ The forth project is about using the Discounted Cash Flow model to value the sto
 Therefore we can review its' intrinsic value, current price and margin of safety with python automatically. 
 
 The fifth project is about trading strategy. I am using SMA and RSI trading strategy with backtesting to analyse the stock 'AAPL'
+Backtesting result: 
+<img width="1369" alt="Screenshot 2021-10-31 at 21 53 46" src="https://user-images.githubusercontent.com/92101495/139587007-9ec37d3d-771f-437f-b944-2d69a80eccca.png">
